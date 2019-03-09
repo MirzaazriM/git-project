@@ -8,7 +8,7 @@ $httpHeaders = [
 ];
 
 // comment 2
-// comm
+// comm ewwww
 
 curl_setopt($ch, CURLOPT_HTTPHEADER, $httpHeaders);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
