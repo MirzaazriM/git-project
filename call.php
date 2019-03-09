@@ -7,6 +7,9 @@ $httpHeaders = [
     'Accept: application/json'
 ];
 
+// comment 2
+// comm
+
 curl_setopt($ch, CURLOPT_HTTPHEADER, $httpHeaders);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 
